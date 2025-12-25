@@ -11,8 +11,8 @@
     <groupId>com.mordiniaa</groupId>
     <artifactId>tasksServer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>tasksService</name>
-    <description>tasksService</description>
+    <name>tasksServer</name>
+    <description>tasksServer</description>
     <url/>
     <licenses>
         <license/>

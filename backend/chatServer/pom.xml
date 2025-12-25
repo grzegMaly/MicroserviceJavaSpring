@@ -11,8 +11,8 @@
     <groupId>com.mordiniaa</groupId>
     <artifactId>chatServer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ChatServer</name>
-    <description>ChatServer</description>
+    <name>chatServer</name>
+    <description>chatServer</description>
     <url/>
     <licenses>
         <license/>
